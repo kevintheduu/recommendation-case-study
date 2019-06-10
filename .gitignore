@@ -110,3 +110,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# scratch notebook
+eda_pat.ipynb
